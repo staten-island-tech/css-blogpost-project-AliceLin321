@@ -1,0 +1,20 @@
+body {
+    background: aliceblue;
+    color: indianred;
+    font-size: 25px;
+    
+}
+h1{ 
+    color: darkorchid;
+}
+.main-header{
+    color: darkolivegreen;
+}
+.background{
+    background-color:aquamarine
+    padding: 5px 5px;
+    height: 50vh;
+}
+.background {
+    background-image: url();
+}
