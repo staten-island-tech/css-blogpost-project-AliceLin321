@@ -1,20 +1,13 @@
-body {
-    background: aliceblue;
-    color: indianred;
-    font-size: 25px;
-    
-}
-h1{ 
-    color: darkorchid;
-}
-.main-header{
-    color: darkolivegreen;
-}
-.background{
-    background-color:aquamarine
-    padding: 5px 5px;
+
+.background {
+    background-image: url(images/hello-kitty.jpg);
+    color: paleturquoise;
     height: 50vh;
 }
-.background {
-    background-image: url();
+.main-header {
+    color: cornflowerblue;
+    text-align: center;
+}
+body {
+    background-color:;
 }
