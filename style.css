@@ -3,11 +3,25 @@
     background-image: url(images/hello-kitty.jpg);
     color: paleturquoise;
     height: 50vh;
+border: 5px solid rgb(162, 199, 255);
 }
-.main-header {
+.header {
     color: cornflowerblue;
     text-align: center;
 }
 body {
     background-color:;
+    font-family: 'IBM Plex Serif', serif;
+}
+.border1    {
+    background-color: rgb(238, 230, 161);
+    height: 500px;
+    width: 500px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.blog1 {
+    border: 3px solid hotpink;
 }
