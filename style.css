@@ -1,43 +1,55 @@
-
 .background {
-   
-   background-color: paleturquoise;
-    height: 50vh;
-border: 5px solid rgb(162, 199, 255);
-
+  background-color: paleturquoise;
+  height: 50vh;
+  border: 5px solid rgb(162, 199, 255);
 }
 .header {
-    color: cornflowerblue;
-    text-align: center;
-    background-image: url(images/hello-kitty.jpg);
-    background: cover ;
-    border: 5px solid chocolate
-
-
+  color: cornflowerblue;
+  text-align: center;
+  background-image: url(images/hello-kitty.jpg);
+  background: cover;
+  border: 5px solid chocolate;
 }
 body {
-    background-color:;
-    font-family: 'IBM Plex Serif', serif;
+  background-color: ;
+  font-family: "IBM Plex Serif", serif;
 }
-.blog1 {
-    border: 3px solid hotpink;
-}
+
 .sanrio {
-    background-color: lavender;
-    height: 30px;
-    width: 30px;
+  background-color: lavender;
+  height: 30px;
+  width: 30px;
 }
 .hk {
-    
-    width: 500px;
-    height: 50px;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 .ppp {
-    width: 500px;
-    height: 50px;
-
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 .kuro {
-    width: 50px;
-    height: 50px;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.weeb {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
