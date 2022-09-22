@@ -1,51 +1,42 @@
-.background {
-  background-color: paleturquoise;
-  height: 50vh;
-  border: 5px solid rgb(162, 199, 255);
-}
 .header {
   color: cornflowerblue;
   text-align: center;
   background-image: url(images/hello-kitty.jpg);
   background: cover;
   border: 5px solid chocolate;
+  height: 100px;
 }
 body {
   background-color: ;
-  font-family: "IBM Plex Serif", serif;
+  font-family: "Fira Sans", sans-serif;
+  text-size-adjust: 200px;
 }
 
-.sanrio {
+.background {
   background-color: lavender;
   height: 30px;
   width: 30px;
 }
-.hk {
-  width: 500px;
-  height: 500px;
-  margin: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
+.weeb-hk {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
 }
-.ppp {
-  width: 500px;
-  height: 500px;
-  margin: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
+.weeb-ppp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
 }
-.kuro {
-  width: 500px;
-  height: 500px;
-  margin: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
+.weeb-kuro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
 }
 .weeb {
   height: 200px;
