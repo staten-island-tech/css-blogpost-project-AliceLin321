@@ -43,3 +43,13 @@ body {
   align-items: center;
   justify-content: center;
 }
+.video {
+  background-color: ;
+  font-family: "Fira Sans", sans-serif;
+  text-size-adjust: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+}
